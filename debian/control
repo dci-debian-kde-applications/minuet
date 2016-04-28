@@ -1,0 +1,31 @@
+Source: minuet
+Section: kde
+Priority: optional
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake (>= 2.8.12~),
+               debhelper (>= 9),
+               extra-cmake-modules (>= 5.19.0~),
+               pkg-kde-tools (>= 0.12),
+Standards-Version: 3.9.8
+Homepage: http://minuet.kde.org/
+Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/minuet.git
+Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/minuet.git
+
+Package: minuet
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}, minuet-data (= ${source:Version})
+Description: KDE Software for Music Education
+ Music education Free Software, thoughtfully designed to push your musical
+ skills to the next level. Enhance your ability to recognize intervals, chords,
+ rhythm, and scales while enjoying all the power of Free Software.
+
+Package: minuet-data
+Architecture: all
+Depends: ${misc:Depends}
+Description: KDE Software for Music Education
+ Music education Free Software, thoughtfully designed to push your musical
+ skills to the next level. Enhance your ability to recognize intervals, chords,
+ rhythm, and scales while enjoying all the power of Free Software.
+ .
+ This package contains the data files for minuet.
