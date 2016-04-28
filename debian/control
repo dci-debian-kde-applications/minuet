@@ -22,7 +22,11 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/minuet.git
 
 Package: minuet
 Architecture: any
-Depends: minuet-data (= ${source:Version}), ${misc:Depends}, ${shlibs:Depends}
+Depends: freepats,
+         minuet-data (= ${source:Version}),
+         timidity,
+         ${misc:Depends},
+         ${shlibs:Depends}
 Description: KDE Software for Music Education
  Music education Free Software, thoughtfully designed to push your musical
  skills to the next level. Enhance your ability to recognize intervals, chords,
