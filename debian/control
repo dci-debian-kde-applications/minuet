@@ -29,6 +29,7 @@ Depends: freepats,
          timidity,
          ${misc:Depends},
          ${shlibs:Depends}
+Recommends: timidity
 Description: KDE Software for Music Education
  Music education Free Software, thoughtfully designed to push your musical
  skills to the next level. Enhance your ability to recognize intervals, chords,
