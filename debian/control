@@ -29,7 +29,8 @@ Depends: freepats,
          timidity,
          ${misc:Depends},
          ${shlibs:Depends}
-Recommends: timidity
+Breaks: minuet-data (<< 16.04.2+p16.04+git201607)
+Replaces: minuet-data (<< 16.04.2+p16.04+git201607)
 Description: KDE Software for Music Education
  Music education Free Software, thoughtfully designed to push your musical
  skills to the next level. Enhance your ability to recognize intervals, chords,
