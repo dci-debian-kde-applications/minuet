@@ -1,4 +1,3 @@
 usr/include/minuet/interfaces/
 usr/include/minuet/shell/
 usr/lib/*/cmake/Minuet/
-usr/lib/*/libminuetinterfaces.so
