@@ -1,4 +1,6 @@
 usr/bin/minuet
 usr/lib/*/libminuetinterfaces.so
+usr/lib/*/libminuetshell.so
+usr/lib/*/qt5/plugins/minuet/minuetdrumsticksoundbackend.so
 usr/lib/*/qt5/plugins/minuet/minuetfluidsynthsoundbackend.so
 usr/share/applications/org.kde.minuet.desktop
