@@ -1,5 +1,6 @@
 usr/share/*/org.kde.minuet.appdata.xml
 usr/share/doc/HTML/*/minuet/
+usr/share/icons/hicolor/*/actions/minuet*.svg
 usr/share/icons/hicolor/*/apps/minuet.*
 usr/share/kxmlgui5/minuet/
 usr/share/minuet/
