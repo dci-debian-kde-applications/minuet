@@ -1,6 +1,1 @@
-minuet: package-name-doesnt-match-sonames libminuetinterfaces libminuetshell
-minuet: dev-pkg-without-shlib-symlink usr/lib/*/libminuetinterfaces.so usr/lib/*/libminuetinterfaces.so
-minuet: dev-pkg-without-shlib-symlink usr/lib/*/libminuetshell.so usr/lib/*/libminuetshell.so
-minuet: shlib-without-versioned-soname usr/lib/*/libminuetinterfaces.so libminuetinterfaces.so
-minuet: shlib-without-versioned-soname usr/lib/*/libminuetshell.so libminuetshell.so
-minuet: postinst-must-call-ldconfig usr/lib/*/libminuetshell.so
+minuet: package-name-doesnt-match-sonames libminuetinterfaces0
