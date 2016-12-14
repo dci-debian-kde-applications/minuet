@@ -13,11 +13,14 @@ Build-Depends: cmake (>= 2.8.12~),
                libfluidsynth-dev (>= 1.1.6),
                libkf5crash-dev (>= 5.15.0~),
                libkf5i18n-dev (>= 5.15.0~),
+               libkf5texteditor-dev,
                libkf5xmlgui-dev (>= 5.15.0~),
+               libqt5svg5-dev (>= 5.4.0~),
                pkg-config,
                pkg-kde-tools (>= 0.12),
                qtbase5-dev (>= 5.4.0~),
-               qtdeclarative5-dev (>= 5.4.0~)
+               qtdeclarative5-dev (>= 5.4.0~),
+               qtquickcontrols2-5-dev (>= 5.4.0~)
 Standards-Version: 3.9.8
 Homepage: http://minuet.kde.org/
 Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/minuet.git
@@ -46,16 +49,6 @@ Description: KDE Software for Music Education
  rhythm, and scales while enjoying all the power of Free Software.
  .
  This package contains the data files for minuet.
-
-Package: libminuetinterfaces0
-Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: KDE Software for Music Education
- Music education Free Software, thoughtfully designed to push your musical
- skills to the next level. Enhance your ability to recognize intervals, chords,
- rhythm, and scales while enjoying all the power of Free Software.
- .
- This package contains the Minuet Interfaces library.
 
 Package: minuet-dev
 Architecture: any
