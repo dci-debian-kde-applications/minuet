@@ -43,6 +43,8 @@ Description: KDE Software for Music Education
 Package: minuet-data
 Architecture: all
 Depends: ${misc:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: KDE Software for Music Education
  Music education Free Software, thoughtfully designed to push your musical
  skills to the next level. Enhance your ability to recognize intervals, chords,
