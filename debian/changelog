@@ -1,3 +1,99 @@
+minuet (17.08.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 05 Sep 2017 14:06:42 +0000
+
+minuet (17.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 17 Aug 2017 09:43:08 +0000
+
+minuet (17.04.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 12 Jul 2017 10:26:40 +0000
+
+minuet (17.04.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 07 Jun 2017 12:25:02 +0000
+
+minuet (17.04.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 11 May 2017 18:27:53 +0000
+
+minuet (17.04.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Apr 2017 13:07:09 +0000
+
+minuet (16.12.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Mar 2017 13:51:28 +0000
+
+minuet (16.12.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 08 Feb 2017 17:04:48 +0000
+
+minuet (16.12.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 Jan 2017 13:26:06 +0000
+
+minuet (16.12.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 14 Dec 2016 16:33:14 +0000
+
+minuet (16.08.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 21 Nov 2016 13:55:08 +0000
+
+minuet (16.08.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 14 Oct 2016 13:41:38 +0000
+
+minuet (16.08.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 16 Sep 2016 13:08:53 +0000
+
+minuet (16.08.0-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 17 Aug 2016 11:51:14 +0000
+
+minuet (16.04.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 12 Jul 2016 11:36:48 +0000
+
+minuet (16.04.2-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 16 Jun 2016 11:09:20 +0000
+
 minuet (16.04.0-1~1.gbpcbaf86) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @cbaf86e9e443a3ef0469738b91e61ba59e7c0789 **
