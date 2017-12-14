@@ -14,6 +14,8 @@ minuet (17.08.3-0r1) UNRELEASED; urgency=medium
   * Drop minuet-dev, since there is no stable API/ABI yet.
   * Remove old minuet-data breaks/replaces from minuet.
   * Simplify the install files.
+  * Remove unused build dependencies: libasound2-dev, libdrumstick-dev,
+    libkf5kio-dev, libkf5texteditor-dev, and libkf5xmlgui-dev.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Sep 2017 15:06:38 +0200
 
