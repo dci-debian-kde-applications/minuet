@@ -1,13 +1,16 @@
-minuet (17.08.1-1) experimental; urgency=medium
+minuet (17.08.3-0r1) UNRELEASED; urgency=medium
 
+  [ Maximiliano Curia ]
   * New upstream release (17.08.1)
   * Bump Standards-Version to 4.1.0.
   * Update upstream metadata
   * Update build-deps and deps with the info from cmake
   * Bump kde-l10n breaks/replaces versions
-  * Release to experimental
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 Sep 2017 15:06:38 +0200
+  [ Pino Toscano ]
+  * New upstream release.
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Sep 2017 15:06:38 +0200
 
 minuet (17.08.1-0neon) xenial; urgency=medium
 
