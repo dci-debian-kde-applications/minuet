@@ -52,14 +52,3 @@ Description: KDE Software for Music Education
  rhythm, and scales while enjoying all the power of Free Software.
  .
  This package contains the data files for minuet.
-
-Package: minuet-dev
-Architecture: any
-Depends: minuet (= ${binary:Version}), ${misc:Depends}
-Description: KDE Software for Music Education
- Music education Free Software, thoughtfully designed to push your musical
- skills to the next level. Enhance your ability to recognize intervals, chords,
- rhythm, and scales while enjoying all the power of Free Software.
- .
- This package contains the developer files for creating Minuet
- plugins.  It has no stable ABI.

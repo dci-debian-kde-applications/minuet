@@ -4,3 +4,9 @@ l10npkgs_firstversion_ok := 4:17.04.3-2~
 
 include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 include /usr/share/pkg-kde-tools/qt-kde-team/2/l10n-packages.mk
+
+override_dh_auto_install:
+	$(overridden_command)
+	# remove development stuff, since there is no stable API/ABI
+	rm -rf debian/tmp/usr/include/
+	find debian/tmp -name '*.so' -type l -delete

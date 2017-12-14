@@ -11,6 +11,7 @@ minuet (17.08.3-0r1) UNRELEASED; urgency=medium
   * New upstream release.
   * Bump Standards-Version to 4.1.2, no changes required.
   * Simplify watch file, and switch it to https.
+  * Drop minuet-dev, since there is no stable API/ABI yet.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Sep 2017 15:06:38 +0200
 
