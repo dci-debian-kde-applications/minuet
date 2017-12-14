@@ -10,3 +10,6 @@ override_dh_auto_install:
 	# remove development stuff, since there is no stable API/ABI
 	rm -rf debian/tmp/usr/include/
 	find debian/tmp -name '*.so' -type l -delete
+
+override_dh_install:
+	$(overridden_command) --fail-missing

@@ -19,6 +19,7 @@ minuet (17.08.3-0r1) UNRELEASED; urgency=medium
   * Update lintian overrides.
   * Slightly improve the description of minuet-data.
   * Align the versions of the build dependencies to the upstream requirements.
+  * Call dh_install with --fail-missing, so no file is missed.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Mon, 18 Sep 2017 15:06:38 +0200
 
