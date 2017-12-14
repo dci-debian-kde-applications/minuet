@@ -1,1 +1,4 @@
-minuet: package-name-doesnt-match-sonames libminuetinterfaces0.3.0
+# private library
+minuet: package-name-doesnt-match-sonames libminuetinterfaces*
+# private library
+minuet: no-symbols-control-file usr/lib/*/libminuetinterfaces.so.*
