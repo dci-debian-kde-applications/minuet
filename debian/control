@@ -39,9 +39,9 @@ Architecture: all
 Depends: ${misc:Depends}
 Breaks: ${kde-l10n:all}
 Replaces: ${kde-l10n:all}
-Description: KDE Software for Music Education
+Description: data files for Minuet
  Music education Free Software, thoughtfully designed to push your musical
  skills to the next level. Enhance your ability to recognize intervals, chords,
  rhythm, and scales while enjoying all the power of Free Software.
  .
- This package contains the data files for minuet.
+ This package contains the data files for Minuet.
